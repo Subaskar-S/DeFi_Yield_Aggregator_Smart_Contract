@@ -170,17 +170,6 @@ npm run test:gas           # With gas reporting
 - **Batch Operations**: Multiple operations in single transaction
 - **IR Compilation**: Uses Solidity IR for better optimization
 
-## ✅ **Project Status: COMPLETE**
-
-🎉 **The DeFi Yield Aggregator is fully functional and ready for use!**
-
-✅ **Smart Contracts**: All contracts implemented and tested
-✅ **Frontend**: React UI with Web3 integration
-✅ **Testing**: 14 comprehensive tests passing
-✅ **Compilation**: All contracts compile successfully
-✅ **Deployment**: Working deployment script included
-✅ **Integration**: Full end-to-end functionality verified
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -191,12 +180,46 @@ npm run test:gas           # With gas reporting
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👨‍💻 Made by
+
+<div align="center">
+
+### **Subaskar_S**
+
+*Full-Stack Developer & Blockchain Enthusiast*
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Subaskar-S)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subaskar97)
+
+---
+
+*"Building the future of cross-chain infrastructure, one commit at a time."*
+
+</div>
+
+### 🌟 About the Developer
+
+Passionate about blockchain technology and decentralized systems, I specialize in creating robust, scalable solutions for the Web3 ecosystem. This project represents my commitment to building production-ready tools that enhance the security and reliability of cross-chain operations.
+
+**Areas of Expertise:**
+- 🔗 Blockchain Development (Ethereum, Polygon, BSC)
+- ⚛️ Full-Stack Development (React, Node.js, TypeScript)
+- 🔒 Security & Anomaly Detection Systems
+- 📊 Real-Time Data Processing & Visualization
+- 🏗️ Scalable System Architecture
+
+---
+
+**⭐ Star this repository if you find it useful!**
+
+**🔔 Watch this repository to stay updated with the latest features and improvements!**
+
+---
 
 ## ⚠️ Disclaimer
 
 This software is provided for educational and development purposes. Always conduct thorough testing and audits before deploying to mainnet. DeFi protocols carry inherent risks including smart contract bugs, economic exploits, and market volatility.
 
 ---
-
-Built with ❤️ for the DeFi community
